@@ -21,7 +21,7 @@
   <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 
   <!-- Theme CSS - Includes Bootstrap -->
-  <link href="css/creative.min.css" rel="stylesheet">
+  <link href="css/creative.css" rel="stylesheet">
 
 </head>
 
@@ -233,7 +233,7 @@
         <div class="col-lg-4 mr-auto text-center">
           <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
           <!-- Make sure to change the email address in anchor text AND the link below! -->
-          <a class="d-block" href="mailto:contact@yourwebsite.com">dbsites@dbsites.meuacesso.site</a>
+          <a class="d-block" href="mailto:dbsites@dbsites.meuacesso.site">dbsites@dbsites.meuacesso.site</a>
         </div>
       </div>
     </div>
