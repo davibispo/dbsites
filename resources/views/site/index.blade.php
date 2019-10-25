@@ -233,7 +233,7 @@
         <div class="col-lg-4 mr-auto text-center">
           <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
           <!-- Make sure to change the email address in anchor text AND the link below! -->
-          <a class="d-block" href="mailto:dbsites@dbsites.meuacesso.site">dbsites@dbsites.meuacesso.site</a>
+          <a class="d-block" href="mailto:contato@dbsites.meuacesso.site">contato@dbsites.meuacesso.site</a>
         </div>
       </div>
     </div>
@@ -242,7 +242,7 @@
   <!-- Footer -->
   <footer class="bg-light py-5">
     <div class="container">
-      <div class="small text-center text-muted">Copyright &copy; 2019 - dbsites</div>
+      <div class="small text-center text-muted">Copyright &copy; 2019 - dbSites</div>
     </div>
   </footer>
 
